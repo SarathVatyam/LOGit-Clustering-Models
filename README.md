@@ -1,1 +1,2 @@
 # LOGit-Clustering-Models
+"Explore a case study on STC, a travel agency managing educational trips. Analyzing customer data, we develop predictive models including KNN, decision trees, and logistic regression, achieving accuracies of 70.19%, 79.40%, and 79.94% respectively. For carpet manufacturer Champo, we conduct data exploration and clustering, recommending tailored marketing strategies based on customer preferences and geographic insights."
